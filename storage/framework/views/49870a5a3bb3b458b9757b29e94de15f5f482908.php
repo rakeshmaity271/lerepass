@@ -1,0 +1,1 @@
+<?php /**PATH /home/admin/web/lerepass.com/public_html/resources/views/vendor/self-update/self-update.blade.php ENDPATH**/ ?>
